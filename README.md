@@ -10,7 +10,7 @@
 
 [semicircle](semicircle.html)
 
-[semicircle narrow passage](semicircle-narrow-passage.html)
+[semicircle narrow passage](semicircle_narrow_passage.html)
 
 [cube](cube.html)
 
